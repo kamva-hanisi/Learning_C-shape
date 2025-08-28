@@ -1,0 +1,1 @@
+Create a simple calculator that asks the user for two numbers and an operator (+ - * /), then display the result
